@@ -1,0 +1,7 @@
+
+Xsquid:S1191"5Use classes from the Java API instead of Sun classes.(™¦èûÿÿÿÿ8À¢ Õú-
+isquid:UselessImportCheck">Remove this unused import 'org.junit.rules.ExpectedException'.(ÛÉ‚¡8€Ù§Õú-
+Vsquid:UselessImportCheck"+Remove this unused import 'org.junit.Rule'.(ä„æÆ8€Ù§Õú-
+~squid:UselessImportCheck"NRemove this unused import 'com.sun.org.apache.xpath.internal.operations.Bool'.(™¦èûÿÿÿÿ8À¢ Õú-
+Xsquid:S1068"5Remove this unused "scannerValidation" private field.(£ÂÕ×şÿÿÿÿ8œ¤ÇÉû-
+psquid:UselessImportCheck"@Remove this unused import 'com.company.engine.ship.ShipFactory'.(øã“‰şÿÿÿÿ8ñÛŠÕú-
