@@ -1,0 +1,7 @@
+organization=zorgof
+projectKey=Zorgof_CleanCodeWithTests
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.4183
+dashboardUrl=https://sonarcloud.io/dashboard?id=Zorgof_CleanCodeWithTests
+ceTaskId=AW_c-TH5AKpOjU20DJs_
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AW_c-TH5AKpOjU20DJs_

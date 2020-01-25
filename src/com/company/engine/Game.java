@@ -8,7 +8,8 @@ import java.util.List;
 public class Game {
 
     public Game() {
-        ScannerUtil scannerUtil = new ScannerUtil(); //powinna byc satyczne
+        //powinna byc satyczne
+        ScannerUtil scannerUtil = new ScannerUtil();
         Board board = scannerUtil.createBoard();
         List<Ship> listShips = scannerUtil.getUserShipsList();
         startGame(board, listShips);

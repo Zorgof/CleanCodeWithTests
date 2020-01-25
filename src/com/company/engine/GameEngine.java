@@ -4,18 +4,16 @@ import com.company.engine.scanner.ScannerUtil;
 import com.company.engine.ship.Ship;
 import com.company.engine.ui.BoardUI;
 
-import java.lang.reflect.Array;
-import java.util.Arrays;
 import java.util.List;
 import java.util.Optional;
 import java.util.concurrent.ThreadLocalRandom;
 import java.util.stream.Collectors;
 
 class GameEngine {
-    public final BoardUI boardUi = new BoardUI();
-    public final Board board;
-    public final List<Ship> listShips;
-    public int shotCounter;
+    private final BoardUI boardUi = new BoardUI();
+    private final Board board;
+    final List<Ship> listShips;
+    private int shotCounter;
 
     GameEngine(Board board, List<Ship> listShips) {
         this.board = board;

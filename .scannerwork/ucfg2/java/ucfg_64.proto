@@ -1,0 +1,26 @@
+
+3com.company.engine.GameEngine#isAllShipDestroyed()Zn
+dC:/PiotrDyderski_Data/JavaEE/SPRING W AKCJI/Chapter_01/Statki/src/com/company/engine/GameEngine.javaR R(%"1*»
+1n
+dC:/PiotrDyderski_Data/JavaEE/SPRING W AKCJI/Chapter_01/Statki/src/com/company/engine/GameEngine.javaS S(Á
+¾
+n
+dC:/PiotrDyderski_Data/JavaEE/SPRING W AKCJI/Chapter_01/Statki/src/com/company/engine/GameEngine.javaS S(
+%0java.util.List"__id*0*.
+com.company.engine.GameEngine"
+	listShipsìé
+n
+dC:/PiotrDyderski_Data/JavaEE/SPRING W AKCJI/Chapter_01/Statki/src/com/company/engine/GameEngine.javaS S(!
+%1java.util.stream.Stream"6java.util.Collection#stream()Ljava/util/stream/Stream;*
+
+%0java.util.List2stream()˜•
+n
+dC:/PiotrDyderski_Data/JavaEE/SPRING W AKCJI/Chapter_01/Statki/src/com/company/engine/GameEngine.javaS S(=
+%2boolean"Ajava.util.stream.Stream#allMatch(Ljava/util/function/Predicate;)Z*
+
+%1java.util.stream.Stream*
+""2(allMatch(Ljava/util/function/Predicate;)"x
+n
+dC:/PiotrDyderski_Data/JavaEE/SPRING W AKCJI/Chapter_01/Statki/src/com/company/engine/GameEngine.javaS S(>
+""B!
+com.company.engine.GameEngine

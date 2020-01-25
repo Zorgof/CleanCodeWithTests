@@ -1,0 +1,65 @@
+
+9com.company.engine.ship.Ship#toString()Ljava/lang/String;m
+cC:/PiotrDyderski_Data/JavaEE/SPRING W AKCJI/Chapter_01/Statki/src/com/company/engine/ship/Ship.java ("1*€
+1m
+cC:/PiotrDyderski_Data/JavaEE/SPRING W AKCJI/Chapter_01/Statki/src/com/company/engine/ship/Ship.java (Ã
+À
+m
+cC:/PiotrDyderski_Data/JavaEE/SPRING W AKCJI/Chapter_01/Statki/src/com/company/engine/ship/Ship.java (
+%0java.lang.String"__id*1*/
+com.company.engine.ship.Ship"
+descriptionµ
+²
+m
+cC:/PiotrDyderski_Data/JavaEE/SPRING W AKCJI/Chapter_01/Statki/src/com/company/engine/ship/Ship.java ( 
+%1java.lang.String"__concat*
+
+%0java.lang.String*
+{Â
+¿
+m
+cC:/PiotrDyderski_Data/JavaEE/SPRING W AKCJI/Chapter_01/Statki/src/com/company/engine/ship/Ship.java  ( 
+%2java.lang.String"__concat*
+
+%1java.lang.String*
+, shortPoints=Á
+¾
+m
+cC:/PiotrDyderski_Data/JavaEE/SPRING W AKCJI/Chapter_01/Statki/src/com/company/engine/ship/Ship.java #  (.
+%3java.util.List"__id*1*/
+com.company.engine.ship.Ship"
+shortPointsÆ
+Ã
+m
+cC:/PiotrDyderski_Data/JavaEE/SPRING W AKCJI/Chapter_01/Statki/src/com/company/engine/ship/Ship.java  (.
+%4java.lang.String"__concat*
+
+%2java.lang.String*
+
+%3java.util.List½
+º
+m
+cC:/PiotrDyderski_Data/JavaEE/SPRING W AKCJI/Chapter_01/Statki/src/com/company/engine/ship/Ship.java !(
+%5java.lang.String"__concat*
+
+%4java.lang.String*
+	, length=¶
+³
+m
+cC:/PiotrDyderski_Data/JavaEE/SPRING W AKCJI/Chapter_01/Statki/src/com/company/engine/ship/Ship.java !($
+%6java.lang.String"__concat*
+
+%5java.lang.String*
+""¶
+³
+m
+cC:/PiotrDyderski_Data/JavaEE/SPRING W AKCJI/Chapter_01/Statki/src/com/company/engine/ship/Ship.java "(
+%7java.lang.String"__concat*
+
+%6java.lang.String*
+"""‰
+m
+cC:/PiotrDyderski_Data/JavaEE/SPRING W AKCJI/Chapter_01/Statki/src/com/company/engine/ship/Ship.java "(
+
+%7java.lang.StringB 
+com.company.engine.ship.Ship

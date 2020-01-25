@@ -7,7 +7,8 @@ public class Board {
 
     private final List<Point> pointList = new ArrayList<>();
     private final int boardSize;
-//tworzy siatke
+
+    //tworzy siatke
     public Board(int boardSize) {
         this.boardSize = boardSize;
         for (int y = 0; y < boardSize; y++) {

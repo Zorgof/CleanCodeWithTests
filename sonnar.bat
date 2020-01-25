@@ -1,0 +1,1 @@
+sonar-scanner.bat -D"sonar.projectKey=Zorgof_CleanCodeWithTests" -D"sonar.organization=zorgof" -D"sonar.sources=." -D"sonar.host.url=https://sonarcloud.io" -D"sonar.login=9d0da92a2716645dbc50db94cac19bb58096d246" -D"sonar.java.binaries=C:\PiotrDyderski_Data\JavaEE\SPRING W AKCJI\Chapter_01\Statki\out\production\Statki"

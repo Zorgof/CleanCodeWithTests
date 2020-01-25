@@ -24,12 +24,17 @@ public class Point {
     public int getX() {
         return x;
     }
+
     public int getY() {
         return y;
     }
 
     boolean isShoted() {
         return isShoted;
+    }
+
+    public void setShoted(boolean shoted) {
+        isShoted = shoted;
     }
 
     public String getDescription() {
@@ -41,11 +46,7 @@ public class Point {
                 : ShipStatus.UNDISCOVERED.toString();
     }
 
-    void shot(){
+    void shot() {
         isShoted = true;
-    }
-
-    public void setShoted(boolean shoted) {
-        isShoted = shoted;
     }
 }

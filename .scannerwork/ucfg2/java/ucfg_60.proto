@@ -1,0 +1,50 @@
+
+3com.company.engine.GameEngine#getMaxRandomValue(I)In
+dC:/PiotrDyderski_Data/JavaEE/SPRING W AKCJI/Chapter_01/Statki/src/com/company/engine/GameEngine.java, ,( "1*­
+1n
+dC:/PiotrDyderski_Data/JavaEE/SPRING W AKCJI/Chapter_01/Statki/src/com/company/engine/GameEngine.java- -(Ç
+Ä
+n
+dC:/PiotrDyderski_Data/JavaEE/SPRING W AKCJI/Chapter_01/Statki/src/com/company/engine/GameEngine.java- -(
+%0com.company.engine.Board"__id*,**
+com.company.engine.GameEngine"
+boardôñ
+n
+dC:/PiotrDyderski_Data/JavaEE/SPRING W AKCJI/Chapter_01/Statki/src/com/company/engine/GameEngine.java- -(#
+%1java.util.List"7com.company.engine.Board#getPointList()Ljava/util/List;* 
+
+%0com.company.engine.Board2getPointList()¶³
+n
+dC:/PiotrDyderski_Data/JavaEE/SPRING W AKCJI/Chapter_01/Statki/src/com/company/engine/GameEngine.java- -(*	
+%2int"java.util.List#size()I*
+
+%1java.util.List2size()Á
+¾
+n
+dC:/PiotrDyderski_Data/JavaEE/SPRING W AKCJI/Chapter_01/Statki/src/com/company/engine/GameEngine.java-1 -(:
+%3java.util.List"__id*0*.
+com.company.engine.GameEngine"
+	listShipsÃ
+À
+n
+dC:/PiotrDyderski_Data/JavaEE/SPRING W AKCJI/Chapter_01/Statki/src/com/company/engine/GameEngine.java-1 -(F"
+%4com.company.engine.ship.Ship"
+__arrayGet*
+
+%3java.util.List*
+""€ý
+n
+dC:/PiotrDyderski_Data/JavaEE/SPRING W AKCJI/Chapter_01/Statki/src/com/company/engine/GameEngine.java-1 -(W
+%5java.util.List"=com.company.engine.ship.Ship#getShortPoints()Ljava/util/List;*$
+"
+%4com.company.engine.ship.Ship2getShortPoints()¶³
+n
+dC:/PiotrDyderski_Data/JavaEE/SPRING W AKCJI/Chapter_01/Statki/src/com/company/engine/GameEngine.java-1 -(^	
+%6int"java.util.List#size()I*
+
+%5java.util.List2size()"x
+n
+dC:/PiotrDyderski_Data/JavaEE/SPRING W AKCJI/Chapter_01/Statki/src/com/company/engine/GameEngine.java- -(_
+"":
+""B!
+com.company.engine.GameEngine

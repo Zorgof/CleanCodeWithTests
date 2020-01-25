@@ -1,0 +1,39 @@
+
+0com.company.engine.GameEngine#isPointShoted(II)Zn
+dC:/PiotrDyderski_Data/JavaEE/SPRING W AKCJI/Chapter_01/Statki/src/com/company/engine/GameEngine.javaV V( "1*÷
+1n
+dC:/PiotrDyderski_Data/JavaEE/SPRING W AKCJI/Chapter_01/Statki/src/com/company/engine/GameEngine.javaW W(Ç
+Ä
+n
+dC:/PiotrDyderski_Data/JavaEE/SPRING W AKCJI/Chapter_01/Statki/src/com/company/engine/GameEngine.javaW W(
+%0com.company.engine.Board"__id*,**
+com.company.engine.GameEngine"
+boardôñ
+n
+dC:/PiotrDyderski_Data/JavaEE/SPRING W AKCJI/Chapter_01/Statki/src/com/company/engine/GameEngine.javaW W(#
+%1java.util.List"7com.company.engine.Board#getPointList()Ljava/util/List;* 
+
+%0com.company.engine.Board2getPointList()ìé
+n
+dC:/PiotrDyderski_Data/JavaEE/SPRING W AKCJI/Chapter_01/Statki/src/com/company/engine/GameEngine.javaW X(
+%2java.util.stream.Stream"6java.util.Collection#stream()Ljava/util/stream/Stream;*
+
+%1java.util.List2stream()¼¹
+n
+dC:/PiotrDyderski_Data/JavaEE/SPRING W AKCJI/Chapter_01/Statki/src/com/company/engine/GameEngine.javaW Y(H
+%3java.util.stream.Stream"Wjava.util.stream.Stream#filter(Ljava/util/function/Predicate;)Ljava/util/stream/Stream;*
+
+%2java.util.stream.Stream*
+""2&filter(Ljava/util/function/Predicate;)˜•
+n
+dC:/PiotrDyderski_Data/JavaEE/SPRING W AKCJI/Chapter_01/Statki/src/com/company/engine/GameEngine.javaW Z(*
+%4boolean"Ajava.util.stream.Stream#allMatch(Ljava/util/function/Predicate;)Z*
+
+%3java.util.stream.Stream*
+""2(allMatch(Ljava/util/function/Predicate;)"x
+n
+dC:/PiotrDyderski_Data/JavaEE/SPRING W AKCJI/Chapter_01/Statki/src/com/company/engine/GameEngine.javaW Z(+
+"":
+"":
+""B!
+com.company.engine.GameEngine

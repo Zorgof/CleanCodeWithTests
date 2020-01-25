@@ -3,6 +3,8 @@ package com.company.engine.scanner.validation;
 import com.company.engine.resources.Configuration;
 
 public class ScannerValidation {
+    private ScannerValidation() {
+    }
 
     public static Integer validateSizeBoard(int value) {
         if (isCorrectUserBoardSize(value)) {

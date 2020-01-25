@@ -13,6 +13,7 @@ public enum ShipStatus {
         this.name = name;
     }
 
+    @Override
     public String toString() {
         return this.name;
     }

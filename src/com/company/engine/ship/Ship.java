@@ -22,13 +22,13 @@ public abstract class Ship {
         return shortPoints;
     }
 
-    public boolean isDestroyed(){
+    public boolean isDestroyed() {
         return shortPoints.stream().allMatch(item -> item.equals(1));
     }
 
     @Override
     public String toString() {
-        return description +"{" +
+        return description + "{" +
                 ", shortPoints=" + shortPoints +
                 ", length=" + length +
                 '}';

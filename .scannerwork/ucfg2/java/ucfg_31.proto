@@ -1,0 +1,71 @@
+
+Qcom.company.engine.scanner.ScannerUtil#getValueBoardFromUser()Ljava/lang/Integer;w
+mC:/PiotrDyderski_Data/JavaEE/SPRING W AKCJI/Chapter_01/Statki/src/com/company/engine/scanner/ScannerUtil.java (0"10*ƒ
+3w
+mC:/PiotrDyderski_Data/JavaEE/SPRING W AKCJI/Chapter_01/Statki/src/com/company/engine/scanner/ScannerUtil.java (RΩ
+∫
+w
+mC:/PiotrDyderski_Data/JavaEE/SPRING W AKCJI/Chapter_01/Statki/src/com/company/engine/scanner/ScannerUtil.java (R
+	tempValuejava.lang.Integer"__id*
+
+%4java.lang.Integer*
+8
+1*ñ
+6w
+mC:/PiotrDyderski_Data/JavaEE/SPRING W AKCJI/Chapter_01/Statki/src/com/company/engine/scanner/ScannerUtil.java (Rí
+è
+w
+mC:/PiotrDyderski_Data/JavaEE/SPRING W AKCJI/Chapter_01/Statki/src/com/company/engine/scanner/ScannerUtil.java (R
+%4java.lang.Integer"_com.company.engine.scanner.validation.ScannerValidation#validateSizeBoard(I)Ljava/lang/Integer;*"
+	!Unknown!*
+	
+%3int*
+3*í
+7w
+mC:/PiotrDyderski_Data/JavaEE/SPRING W AKCJI/Chapter_01/Statki/src/com/company/engine/scanner/ScannerUtil.java (9ª
+∏
+w
+mC:/PiotrDyderski_Data/JavaEE/SPRING W AKCJI/Chapter_01/Statki/src/com/company/engine/scanner/ScannerUtil.java (9
+scannerjava.util.Scanner"__id*
+
+%1java.util.Scanner–Õ
+w
+mC:/PiotrDyderski_Data/JavaEE/SPRING W AKCJI/Chapter_01/Statki/src/com/company/engine/scanner/ScannerUtil.java@ (Q	
+%3int"java.util.Scanner#nextInt()I*
+
+scannerjava.util.Scanner2	nextInt()*
+6*√
+8w
+mC:/PiotrDyderski_Data/JavaEE/SPRING W AKCJI/Chapter_01/Statki/src/com/company/engine/scanner/ScannerUtil.java. (4•
+¢
+w
+mC:/PiotrDyderski_Data/JavaEE/SPRING W AKCJI/Chapter_01/Statki/src/com/company/engine/scanner/ScannerUtil.java. (7
+%0java.io.InputStream"__id*
+""®•
+w
+mC:/PiotrDyderski_Data/JavaEE/SPRING W AKCJI/Chapter_01/Statki/src/com/company/engine/scanner/ScannerUtil.java& (-
+%1java.util.Scanner"java.util.ScannerÏ
+È
+w
+mC:/PiotrDyderski_Data/JavaEE/SPRING W AKCJI/Chapter_01/Statki/src/com/company/engine/scanner/ScannerUtil.java" (8
+%2"0java.util.Scanner#<init>(Ljava/io/InputStream;)V*
+
+%1java.util.Scanner*
+
+%0java.io.InputStream*
+7*Ø
+10w
+mC:/PiotrDyderski_Data/JavaEE/SPRING W AKCJI/Chapter_01/Statki/src/com/company/engine/scanner/ScannerUtil.java ( ™
+ß
+w
+mC:/PiotrDyderski_Data/JavaEE/SPRING W AKCJI/Chapter_01/Statki/src/com/company/engine/scanner/ScannerUtil.java (!
+	tempValuejava.lang.Integer"__id*
+""*
+8*ö
+1w
+mC:/PiotrDyderski_Data/JavaEE/SPRING W AKCJI/Chapter_01/Statki/src/com/company/engine/scanner/ScannerUtil.java ("õ
+w
+mC:/PiotrDyderski_Data/JavaEE/SPRING W AKCJI/Chapter_01/Statki/src/com/company/engine/scanner/ScannerUtil.java ( 
+
+	tempValuejava.lang.IntegerB*"(
+&com.company.engine.scanner.ScannerUtil

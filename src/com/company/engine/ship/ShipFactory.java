@@ -2,9 +2,8 @@ package com.company.engine.ship;
 
 public class ShipFactory {
 
-    public ShipFactory() {
-    }
-// tworzy wszystkie statki
+
+    // tworzy wszystkie statki
     public Ship generateShip(int shipNumber) {
 
         switch (shipNumber) {
